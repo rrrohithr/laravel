@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Home",
+        "link": "#",
+        "key": "home-menu"
+    },
+    {
+        "title": "Sales",
+        "link": "#",
+        "key": "sales-menu",
+        "menus": [
+            {
+                "title": "Create New Member",
+                "link": "#",
+                "key": "sales-create-new-member"
+            },
+            {
+                "title": "Upgrade a Subscription",
+                "link": "#",
+                "key": "sales-upgrade-subscription"
+            },
+            {
+                "title": "General Sales",
+                "link": "#",
+                "key": "sales-general-sales"
+            },
+            {
+                "title": "Paperless DD Signup",
+                "link": "#",
+                "key": "sales-paperless-dd-signup"
+            },
+            {
+                "title": "Sales Dashboard",
+                "link": "#",
+                "key": "sales-dashboard",
+                "menus": [
+                    {
+                        "title": "Create New Member",
+                        "link": "#",
+                        "key": "sales-dashboard-create-new-member"
+                    }
+                ]
+            }
+        ]
+    }
+]
