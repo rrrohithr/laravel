@@ -10,4 +10,9 @@ export default defineConfig({
         }),
         react(),
     ],
+    server: {
+        port: 3001, // Set your custom port here
+    },
 });
+
+

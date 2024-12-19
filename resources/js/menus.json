@@ -54,7 +54,143 @@
             {
                 "title": "Sales Report Dashboard",
                 "link": "#",
-                "key": "sales-dashboard"
+                "key": "sales-report-dashboard"
+            }
+        ]
+    },
+    {
+        "title": "Renewals",
+        "link": "#",
+        "key": "renewals-menu",
+        "menus": [
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "renewals-menu-1"
+            },
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "renewals-menu-2"
+            }
+        ]
+    },
+    {
+        "title": "File Maintenance",
+        "link": "#",
+        "key": "file-maintenance-menu",
+        "menus": [
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "file-maintenance-menu-1"
+            },
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "file-maintenance-menu-2"
+            }
+        ]
+    },
+    {
+        "title": "Reports",
+        "link": "#",
+        "key": "reports-menu",
+        "menus": [
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "reports-menu-1"
+            },
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "reports-menu-2"
+            }
+        ]
+    },
+    {
+        "title": "Settings",
+        "link": "#",
+        "key": "settings-menu",
+        "menus": [
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "settings-menu-1"
+            },
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "settings-menu-2"
+            }
+        ]
+    },
+    {
+        "title": "Member Directory",
+        "link": "#",
+        "key": "member-directory-menu",
+        "menus": [
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "member-directory-menu-1"
+            },
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "member-directory-menu-2"
+            }
+        ]
+    },
+    {
+        "title": "Users",
+        "link": "#",
+        "key": "users-menu",
+        "menus": [
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "users-menu-1"
+            },
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "users-menu-2"
+            }
+        ]
+    },
+    {
+        "title": "Training",
+        "link": "#",
+        "key": "training-menu",
+        "menus": [
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "training-menu-1"
+            },
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "training-menu-2"
+            }
+        ]
+    },
+    {
+        "title": "Sundry payments",
+        "link": "#",
+        "key": "sundry-payments-menu",
+        "menus": [
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "sundry-payments-menu-1"
+            },
+            {
+                "title": "menu",
+                "link": "#",
+                "key": "sundry-payments-menu-2"
             }
         ]
     }
