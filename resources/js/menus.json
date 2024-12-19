@@ -32,14 +32,29 @@
             {
                 "title": "Sales Dashboard",
                 "link": "#",
-                "key": "sales-dashboard",
+                "key": "sales-dashboard"
+            },
+            {
+                "title": "Sales Records Settings",
+                "link": "#",
+                "key": "sales-records-settings",
                 "menus": [
                     {
-                        "title": "Create New Member",
+                        "title": "Team",
                         "link": "#",
-                        "key": "sales-dashboard-create-new-member"
+                        "key": "team"
+                    },
+                    {
+                        "title": "Individual",
+                        "link": "#",
+                        "key": "individual"
                     }
                 ]
+            },
+            {
+                "title": "Sales Report Dashboard",
+                "link": "#",
+                "key": "sales-dashboard"
             }
         ]
     }
