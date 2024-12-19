@@ -1,4 +1,7 @@
 export default function Header() {
+    const toggleSidebar = () => {
+        document.body.classList.toggle('toggle-sidebar');
+    };
     return (
         <>
             <header id="header" className="header fixed-top d-flex align-items-center">
@@ -6,7 +9,7 @@ export default function Header() {
                     <a href="index.html" className="logo d-flex align-items-center">
                         <img src="/img/logo.svg" alt />
                     </a>
-                    <i className="bi bi-list toggle-sidebar-btn" />
+                    <i onClick={toggleSidebar} className="bi bi-list toggle-sidebar-btn" />
                 </div>
                 <div className="top-menu">
                     <ul>
